@@ -1,4 +1,4 @@
-# Joseph El-Nouni's Portfolio
+# Joseph E's Portfolio
 
 Welcome! In all likelihood, you are here to obtain more details about my qualifications.
 As such, feel free to peruse the sections below.
