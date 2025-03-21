@@ -1,13 +1,13 @@
 # Welcome to My GitHub Portfolio! 👋
 
-Greetings. This is Joseph E's official portfolio.
+Greetings. This is Joseph E.'s official portfolio.
 In the sections beflow, you will find demonstrations of:
 
-- 🚀 **Innovative Projects**: Minus the details that cannot be disclosed, I aim to document as many of my projects here as possible.
-- 🛠️ **Technical Expertise**: Much of my own work is open-source. You may peruse the codebases to verify my proficiency in various skills.
+- 🚀 **Innovative Projects**: I aim to document as many of my projects here as possible. (Do note that some projects may not be detailed in full, for professional reasons).
+- 🛠️ **Technical Expertise**: Much of my own work is open-source. You may peruse the available codebases to verify my proficiency in a number of skills.
 
 ### 🚧 Under Construction
-Do note that some repositories are actively being improved—stay tuned for updates!
+This repository, as well as the ones linked below, are still under construction.
 
 ## About me (as of January 2025)
 
